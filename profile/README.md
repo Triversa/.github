@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet
 
 - :zap: Learning for a new technologies
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/code21inside/) or sony.surahman98@gmail.com
+- :mailbox:How to reach us: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/triversadigital/) or helo.triversa@gmail.com
 
 ### [Tech Stack](https://github.com/triversa/#techstack)
 <div>
